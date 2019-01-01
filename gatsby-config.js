@@ -61,7 +61,7 @@ module.exports = {
         short_name: `Vorlume`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#242582`,
         display: `minimal-ui`,
         icon: `content/assets/Vorlume.png`,
       },
