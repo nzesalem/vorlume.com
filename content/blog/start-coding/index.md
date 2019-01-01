@@ -48,7 +48,7 @@ There are communities like [Google Developer Group](https://developers.google.co
 There are also coding challenges like [100HoursofCode](https://twitter.com/hashtag/100hoursofcode), [100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode), and many others all over the web. Taking part in these challenges can help to keep you going because you will be motivated to complete them, and you will meet a lot of people around the world who are taking part in the challenges. These people will also keep you motivated in one way or another.
 
 ## In conclusion
-Coding is not a very difficult skill to learn, you certainly don't need to be brainy to learn it. You can learn it on you own, and the only thing you need to get started is a laptop (or a mobile phone, if you can't find a computer) and an internet connection. So now that you know this, don't let anything else hold you back. Start today. Start now. And in doing so, you will not only change your life but you may one day change the world.
+Coding is not a very difficult skill to learn, you certainly don't need to be brainy to learn it. You can learn it on your own, and the only thing you need to get started is a laptop (or a mobile phone, if you can't find a computer) and an internet connection. So now that you know this, don't let anything else hold you back. Start today. Start now. And in doing so, you will not only change your life but you may one day change the world.
 
 That’s all for now.
 
