@@ -7,8 +7,8 @@ In the spirit of new year, I decided to follow [Dan Abramov's](https://twitter.c
 
 People have always asked me what they need to have in place before they can start learning how to code. So it makes sense to start this blog by outlining some prerequisite to learning how to code.
 
-But before I do that, I want to clear two misconception that people tend to have about coding and learning how to code.
-1. **Codding is not hard:** People tend have this misconception that coding is hard. This is not always true. There are times when coding can be challenging, but for the most part, coding is fun. Another common misconception is that learning how to code requires huge intellectual capabilities.
+But before I do that, I want to clear two misconceptions that people tend to have about coding and learning how to code.
+1. **Coding is not hard:** People tend to have this misconception that coding is hard. This is not always true. There are times when coding can be challenging, but for the most part, coding is fun. Another common misconception is that learning how to code requires huge intellectual capabilities.
 
 However, in honesty – you don't need to be a genius to start learning how to code. All you need to have is motivation, interest, and discipline. Coding can be as fun as learning a new language. Yes, you may find it intimidating at first, but with time you will come to enjoy it.
 
