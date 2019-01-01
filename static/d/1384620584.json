@@ -1,0 +1,1 @@
+{"errors":[{"message":"Invalid flags supplied to RegExp constructor 'profile-pic.jpg'","locations":[{"line":2,"column":3}],"path":["avatar"]}],"data":{"avatar":null,"site":{"siteMetadata":{"author":"Salem Nzeukwu","social":{"twitter":"Nzesalem"}}}}}
