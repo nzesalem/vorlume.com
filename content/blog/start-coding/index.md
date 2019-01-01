@@ -58,6 +58,6 @@ Coding is not a very difficult skill to learn, you certainly don't need to be br
 
 That’s all for now.
 
-Thank you for reading! Please tell someone about Vorlume if you like it, and [tweet at me](https://twitter.com/Nzesalem) to give feedback.
+Thank you for reading! Please tell someone about Vorlume if you like what you have just read, and [tweet at me](https://twitter.com/Nzesalem) to give feedback.
 
 It is with love in my heart that I say **Happy new year!** My friend.
