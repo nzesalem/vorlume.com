@@ -24,18 +24,24 @@ Although, in truth, the only thing you need to start leaning how to code is any 
 But I would strongly advice anyone who wants to take coding seriously to get a computer (laptop or desktop), I think this will allow you to learn and get things done faster. For a start, you can get a cheap laptop with minimum specifications. You may even rent, or borrow from a friend, if you have to.
 
 ## What you should learn first
-As soon as you decide to learn how to code, you quickly realize that there are so many programming languages to choose from, and there are many different opinions on which language to learn first, which often leaves beginners confused and unsure where to start from. But I will make it easy for you here:
+As soon as you decide to learn how to code, you quickly realize that there are so many programming languages to choose from, and there are many different opinions on which language to learn first, which often leaves beginners confused and unsure where to start from. If you are unsure what programming language you should learn first, I will make it easy for you here:
+
 1. Start with HTML and CSS
 2. Learn Javascript
 3. Then move forward from there.
 
+If you would like to learn more about what programming language you should learn first, checkout [this article](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d).
+
 ## Learning resources
-Now that you have what you need and know what to learn first, the next thing is doing the actual learning. So, below are some online resources that you can use to start learning right away. Like I said, there are numerous of these resources online, but I will mention just a couple so I don't end up overwhelming you.
+Now that you have what you need and know what to learn first, the next thing is doing the actual learning. So, below are some online resources that you can use to start learning right away. Like I said, there are numerous of these resources online, but I will mention just a few so I don't end up overwhelming you.
 
 #### 1. [freeCodeCamp](https://www.freecodecamp.org)
 FreeCodeCamp is a free online coding resource that teaches coding through a well established curriculum. They also give you hands-on experience working on projects for nonprofits.
 
-#### 2. [Codecademy](https://www.codecademy.com)
+#### 2. [W3Schools](https://www.w3schools.com)
+W3Schools is one of the best learning resource our there that is perfect for beginners. They offer free coding tutorials and reference materials for learning different programming languages. They also give you quizzes and coding exercises so you can test your skills right away.
+
+#### 3. [Codecademy](https://www.codecademy.com)
 Codecademy is an online interactive learning platform that teaches people how to code. You read a little, type the codes right into the browser, and see results immediately.
 
 Take a look at these resources, and use anyone that you feel is better for you to start learning immediately.
