@@ -5,7 +5,7 @@ date: '2019-01-01T10:45:11.292Z'
 
 In the spirit of the new year, I decided to follow [Dan Abramov](https://twitter.com/dan_abramov)'s [advice](https://twitter.com/dan_abramov/status/1079214023881707520) and [footsteps](https://overreacted.io) to start a blog as soon as possible, something I have procrastinated for so long.
 
-People have always asked me what they need to have in place before they can start learning how to code. So it makes sense to start this blog by outlining some prerequisite to learning how to code.
+People have always asked me what they need to have in place before they can start learning how to code. So it makes sense to start this blog by outlining some prerequisites to learning how to code.
 
 But before I do that, I want to clear two misconceptions that people tend to have about coding and learning how to code.
 1. **Coding is not hard:** People tend to have this misconception that coding is hard. This is not always true. There are times when coding can be challenging, but for the most part, coding is fun. Another common misconception is that learning how to code requires huge intellectual capabilities.
@@ -39,7 +39,7 @@ Now that you have what you need and know what to learn first, the next thing is 
 FreeCodeCamp is a free online coding resource that teaches coding through a well-established curriculum. They also give you hands-on experience working on projects for nonprofits.
 
 #### 2. [W3Schools](https://www.w3schools.com)
-W3Schools is one of the best learning resources our there that is perfect for beginners. They offer free coding tutorials and reference materials for learning different programming languages. They also give you quizzes and coding exercises so you can test your skills right away.
+W3Schools is one of the best learning resources out there that is perfect for beginners. They offer free coding tutorials and reference materials for learning different programming languages. They will also give you quizzes and coding exercises so you can test your skills right away.
 
 #### 3. [Codecademy](https://www.codecademy.com)
 Codecademy is an online interactive learning platform that teaches people how to code. You read a little, type the codes right into the browser, and see results immediately.
@@ -60,4 +60,4 @@ That’s all for now.
 
 Thank you for reading! Please tell someone about Vorlume if you like it, and [tweet at me](https://twitter.com/Nzesalem) to give feedback.
 
-It is with love in my heart that I say **Happy new year!** my friend.
+It is with love in my heart that I say **Happy new year!** My friend.
