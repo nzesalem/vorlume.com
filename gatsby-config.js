@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Vorlume blog`,
+        name: `Vorlume`,
         short_name: `Vorlume`,
         start_url: `/`,
         background_color: `#ffffff`,
