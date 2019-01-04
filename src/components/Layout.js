@@ -65,6 +65,14 @@ class Layout extends React.Component {
         {header}
         {children}
         <footer>
+          <div style={{ float: 'right' }}>
+            <a
+              href="/rss.xml"
+              target="_blank"
+              rel="noopener noreferrer"
+            >rss</a>
+          </div>
+
           &copy; {new Date().getFullYear()} Vorlume.
         </footer>
       </div>

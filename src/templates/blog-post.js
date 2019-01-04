@@ -4,14 +4,24 @@ import { Link, graphql } from 'gatsby'
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
+import Signup from '../components/Signup/Signup'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
+
+const GITHUB_USERNAME = 'nzesalem'
+const GITHUB_REPO_NAME = 'vorlume.com'
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
-    const { previous, next } = this.props.pageContext
+    const { previous, next, slug } = this.props.pageContext
+    
+    const editUrl = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME}/edit/master/content/blog/${slug.replace(
+      /\//g,
+      ''
+    )}/index.md`
+    const discussUrl = `https://twitter.com/search?q=${encodeURIComponent(`https://vorlume.com${slug}`)}`
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -29,11 +39,36 @@ class BlogPostTemplate extends React.Component {
           {` • ${formatReadingTime(post.timeToRead)}`}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
+        <p>
+          <a href={discussUrl} target="_blank" rel="noopener noreferrer">
+            Discuss on Twitter
+          </a>
+          {` • `}
+          <a href={editUrl} target="_blank" rel="noopener noreferrer">
+            Edit on GitHub
+          </a>
+        </p>
+
+        <div style={{ margin: '90px 0 40px 0' }}>
+          <Signup />
+        </div>
+        <h3
           style={{
-            marginBottom: rhythm(1),
+            fontFamily: 'Montserrat, sans-serif',
+            marginTop: rhythm(0.25),
           }}
-        />
+        >
+          <Link
+            style={{
+              boxShadow: 'none',
+              textDecoration: 'none',
+              color: '#242582',
+            }}
+            to={'/'}
+          >
+            Vorlume
+          </Link>
+        </h3>
         <Bio />
 
         <ul
