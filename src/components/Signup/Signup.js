@@ -23,7 +23,7 @@ class Signup extends React.Component {
               className="subheader"
               style={{ color: 'rgb(104, 104, 104)', fontsize: '15px' }}
             >
-              <p>Subscribe to get my latest content by email.</p>
+              <p>Subscribe to get my latest quality articles by email.</p>
             </div>
             <div className="signup-image">
               <img
